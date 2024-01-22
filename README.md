@@ -1,7 +1,7 @@
-# Electrumx Proxy Go
+# Electrumx Proxy Go for Atomicals
 
-Electrumx Proxy Go is an implementation of a proxy server for Electrumx written in Go. It is designed to allow clients
-to connect to Electrumx servers through a high-performance, scalable Go-based intermediary.
+Electrumx Proxy Go is an implementation of a proxy server for Electrumx written in Go. It is designed to allow clients to connect to Electrumx servers through a high-performance, scalable Go-based intermediary. By serving as a robust buffer between clients and Electrumx servers, Electrumx Proxy Go significantly increases the stability and reliability of RPC communications within the Atomical ecosystem. This enhancement is crucial for systems that require consistent and uninterrupted access to blockchain data, ensuring that applications remain responsive and resilient to fluctuations in demand or network conditions.
+
 
 ## Prerequisites
 
