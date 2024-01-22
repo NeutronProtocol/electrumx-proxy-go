@@ -1,0 +1,4 @@
+.idea/
+electrumx-proxy-go
+.env
+config.toml
