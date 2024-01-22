@@ -1,7 +1,10 @@
 # Electrumx Proxy Go for Atomicals
 
+<img width="289" alt="Screenshot 2024-01-21 at 9 41 28 PM" src="https://github.com/NeutronProtocol/electrumx-proxy-go/assets/153654900/c048f62c-7e71-4f42-8ad2-00f2e71371d1">
+
 Electrumx Proxy Go is an implementation of a proxy server for Electrumx written in Go. It is designed to allow clients to connect to Electrumx servers through a high-performance, scalable Go-based intermediary. By serving as a robust buffer between clients and Electrumx servers, Electrumx Proxy Go significantly increases the stability and reliability of RPC communications within the Atomical ecosystem. This enhancement is crucial for systems that require consistent and uninterrupted access to blockchain data, ensuring that applications remain responsive and resilient to fluctuations in demand or network conditions.
 
+<img width="1150" alt="Screenshot 2024-01-21 at 9 41 44 PM" src="https://github.com/NeutronProtocol/electrumx-proxy-go/assets/153654900/60a7e718-a299-4552-9c16-2a4ef7dc7e5e">
 
 ## Prerequisites
 
